@@ -11,9 +11,8 @@ O sistema comporta funcionalidades, como:
 - `Carregar dados: ler String JSON e converter para objetos Java, para recuperação de informações`
 - `Alterar situação de carga: utilizando Enum, permite modificar a situação de cargas cadastradas que não sejam "FINALIZADAS"`
 
-> :construction: Projeto em correção :construction:
-
-#### Autores
-
+### Autores
 | [<sub>Bianca Alves</sub>](https://github.com/Bialves) |
 | :---: |
+
+> :construction: Projeto em correção :construction:
