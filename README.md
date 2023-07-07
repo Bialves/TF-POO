@@ -17,7 +17,7 @@ O sistema comporta funcionalidades, como:
 | [<sub>Bianca Alves</sub>](https://github.com/Bialves) | [<sub>Sofia Sartori</sub>](https://github.com/sofiasartori24) |  [<sub>Nicolas Tanure</sub>](https://github.com/NicolasTanure) |
 | :---: | :---: | :---: |
 
-#### Licença
+### Licença
 Gson é lançado sob a licença Apache 2.0.
 
 Copyright 2023 Bianca Alves, Sofia Sartori e Nicolas Tanure
