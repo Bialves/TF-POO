@@ -1,7 +1,4 @@
 # TF-POO
-<p align="right">
-    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_CORRE%C3%87%C3%83O-yellow" />
-</p>
 Trabalho Final da cadeira de Programação Orientada a Objetos, do curso de Engenharia de Software da PUCRS.
 
 ### Descrição
@@ -35,3 +32,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+<p align="right">
+    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_CORRE%C3%87%C3%83O-yellow" />
+</p>
