@@ -1,6 +1,6 @@
 # TF-POO
 <p align="right">
-    <img alt="Static Badge" src="STATUS-EM_CORRE%C3%87%C3%83O-yellow" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_CORRE%C3%87%C3%83O-yellow" />
 </p>
 
 
