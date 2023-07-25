@@ -1,5 +1,7 @@
 # TF-POO
-> :construction: Projeto em correção :construction:
+<p align="right">
+    <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20CORREÇÃO&color=YELLOW&style=for-the-badge"/>
+</p>
 
 Trabalho Final da cadeira de Programação Orientada a Objetos, do curso de Engenharia de Software da PUCRS.
 
