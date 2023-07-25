@@ -1,9 +1,9 @@
 # TF-POO
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/LICENSE-APACHE_2.0-black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LICEN%C3%87A-APACHE_2.0-black">
     <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_CORRE%C3%87%C3%83O-yellow" />
 </div>
-
+<br>
 Trabalho Final da cadeira de Programação Orientada a Objetos, do curso de Engenharia de Software da PUCRS.
 
 ### Descrição
