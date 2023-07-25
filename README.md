@@ -1,7 +1,9 @@
 # TF-POO
 <p align="right">
-    <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20CORREÇÃO&color=YELLOW&style=for-the-badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FSTATUS-EM_CORRE%C3%87%C3%83O-yellow" />
 </p>
+
+
 
 Trabalho Final da cadeira de Programação Orientada a Objetos, do curso de Engenharia de Software da PUCRS.
 
